@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace PracticaCV_FranDM
 {
-    internal class Clase_FranDM
+    public class Clase_FranDM
     {
+        //CONSTANTES
+
+        //MIEMBROS
+
+        //CONSTRUCTORES
+
+        //PROPIEDADES
+        
+        //MÉTODOS PÚBLICOS
+
+        //MÉTODOS PRIVADOS
     }
 }
